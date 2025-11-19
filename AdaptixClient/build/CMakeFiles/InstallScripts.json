@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/cmake_install.cmake",
+		"/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/Libs/kddockwidgets/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

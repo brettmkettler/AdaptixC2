@@ -1,0 +1,10 @@
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/CMakeFiles/AdaptixClient.dir
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/CMakeFiles/edit_cache.dir
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/CMakeFiles/rebuild_cache.dir
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/CMakeFiles/AdaptixClient_autogen_timestamp_deps.dir
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/CMakeFiles/AdaptixClient_autogen.dir
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/Libs/kddockwidgets/CMakeFiles/edit_cache.dir
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/Libs/kddockwidgets/CMakeFiles/rebuild_cache.dir
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/Libs/kddockwidgets/CMakeFiles/kddockwidgets_autogen_timestamp_deps.dir
+/Users/brettkettler/REPO/scambait/client/AdaptixC2/AdaptixClient/build/Libs/kddockwidgets/CMakeFiles/kddockwidgets_autogen.dir
